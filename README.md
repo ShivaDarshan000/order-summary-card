@@ -1,3 +1,4 @@
+# Order Summary Card
 
 A simple and responsive **Order Summary Card** built using HTML and CSS.  
 This card design can be used for subscription summaries, payment confirmations, or product orders.  
@@ -20,5 +21,7 @@ It includes a header image, plan details, action buttons, and a cancel link.
 - **Favicon Support** – Custom icon in the browser tab.
 
 - 📱 Responsive Design
+  
 Works on mobile devices (400px and above).
+
 Uses percentage widths and media queries for better adaptation.
