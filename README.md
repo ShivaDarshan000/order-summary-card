@@ -1,4 +1,3 @@
-<img width="1791" height="851" alt="image" src="https://github.com/user-attachments/assets/791af54e-e169-4fba-9ce8-42961bb5e4b6" /># order-summary-card
 
 A simple and responsive **Order Summary Card** built using HTML and CSS.  
 This card design can be used for subscription summaries, payment confirmations, or product orders.  
