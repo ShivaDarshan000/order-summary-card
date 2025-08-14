@@ -20,7 +20,9 @@ It includes a header image, plan details, action buttons, and a cancel link.
 - **Call-to-Action Button** – Stylish and interactive.
 - **Favicon Support** – Custom icon in the browser tab.
 
-- 📱 Responsive Design
+---
+
+📱 Responsive Design
   
 Works on mobile devices (400px and above).
 
